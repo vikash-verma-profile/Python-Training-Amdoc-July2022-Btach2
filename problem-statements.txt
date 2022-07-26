@@ -1,0 +1,2 @@
+1.check whether a number is odd and even
+2.Find max of 3 numbers
