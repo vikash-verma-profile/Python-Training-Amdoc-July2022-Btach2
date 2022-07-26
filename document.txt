@@ -5,3 +5,11 @@ Mapping Type dict
 Set Types set,
 Boolean Types: bool
 Binary Types: bytes,bytearray
+
+
+Arithmetic operators  +,-,*,/,%
+Assignment Operators =,+=,*=
+Comparision Operators ==,!=,>,<,>=,<=
+Logical Operators and ,or ,not
+Indentity Operators is , is not
+Membership Operators in ,not in
